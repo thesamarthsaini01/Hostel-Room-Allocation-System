@@ -22,4 +22,8 @@ This project is a simple Java application that helps manage hostel room allocati
 2. Run the program:
    java HostelRoomAllocation
 
+   ##Author
+   Samarth Saini
+   Regb No. - 24BCY10037
+
 
